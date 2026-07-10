@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: black;
+}
+
+p{
+    color: #2b7437;
+    font-size: 10vh;
+    text-decoration: underline;
+
+}
